@@ -7,8 +7,8 @@ public class ShoppingCart {
 	    //  Declare and initialize variables of type long, float, and char.
         
         long long1 = 9999999999L;
-        float float1 = 999.99F;
-        char char1 = 'Y';
+        // float float1 = 999.99F;
+        // char char1 = 'Y';
         
         // Print the long variable.
 

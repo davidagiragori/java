@@ -1,3 +1,5 @@
+package ex04_1_exercise;
+
 public class StringManipulation {
     public static void main (String [] args) {
 

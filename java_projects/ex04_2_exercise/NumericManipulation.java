@@ -1,3 +1,4 @@
+package ex04_2_exercise;
 public class NumericManipulation {
     public static void main (String [] args) {
         
