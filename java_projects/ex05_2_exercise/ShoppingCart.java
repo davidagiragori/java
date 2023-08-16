@@ -7,16 +7,14 @@ public class ShoppingCart {
         String custName = "Mary Smith";
         String message = custName + " wants to purchase several items.";
 
-        // TODO: Declare and initialize the items String array
+        // Declare and initialize the items String array
         String[] items = {"Shirt", "Trouser", "Tee", "Jean"};
         
-        // TODO: Change message to show the number of items the customer wants to purchase
-
+        // Change message to show the number of items the customer wants to purchase
         message = custName + " wants to purchase " + items.length + " items.";
         System.out.println(message);
 
-        // TODO: Print an element from the items array
-        
+        // Print an element from the items array        
         System.out.println("Item Name is " + items[0]);
         System.out.println("Item Name is " + items[1]);
         System.out.println("Item Name is " + items[2]);
