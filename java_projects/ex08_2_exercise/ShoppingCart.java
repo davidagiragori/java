@@ -21,7 +21,7 @@ public class ShoppingCart {
         }
         else {
             myItem.displayItem();
-        }
+        }    
 
     }
     
