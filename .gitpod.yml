@@ -10,6 +10,8 @@ vscode:
     - vscjava.vscode-spring-initializr
     - vscjava.vscode-spring-boot-dashboard
 
+    - vmware.vscode-spring-boot
+
 # Commands to run on start
 tasks:
   - init: echo 'Initialization commands can go here'
